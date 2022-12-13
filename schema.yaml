@@ -1,0 +1,921 @@
+
+  - description: null
+    label: "Globals"
+    name: "clippings"
+    sort: 1
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: null
+    content: "/content/clippings.yaml"
+    fields:
+      - name: "site_name"
+        label: "Site Name"
+        description: null
+        datatype: "text"
+        sort: 1
+        required: true
+        relationship: null
+        settings:
+          options: {}
+      - name: "logo"
+        label: "Site Logo"
+        description: null
+        datatype: "images"
+        sort: 2
+        required: null
+        relationship: null
+        settings:
+          limit: 1
+          options: {}
+      - name: "footer_title"
+        label: "Footer title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "footer_icon"
+        label: "Footer Icon"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "footer_address"
+        label: "Footer address"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "footer_email"
+        label: "Footer email"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "footer_content"
+        label: "Footer content"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "footer_contact"
+        label: "Footer contact"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "footer_column1"
+        label: "Footer column1"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "footer_column2"
+        label: "Footer column2"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "footer_column3"
+        label: "Footer column3"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "contact_modal_msg"
+        label: "Contact modal msg"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "footer_modal_msg"
+        label: "Footer modal msg"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "modal_title"
+        label: "Modal title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "modal_button_name"
+        label: "Modal button name"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: null
+    label: "Homepage"
+    name: "homepage"
+    sort: 1
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/homepage.tpl"
+    content: "/content/homepage.yaml"
+    fields:
+      - name: "heading1"
+        label: "Heading1"
+        description: ""
+        datatype: "text"
+        sort: 0
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "video"
+        label: "Video"
+        description: ""
+        datatype: "images"
+        sort: 2
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "video_heading"
+        label: "Video Heading"
+        description: ""
+        datatype: "text"
+        sort: 3
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "video_content"
+        label: "Video Content"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 4
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "video_link"
+        label: "Video Link"
+        description: ""
+        datatype: "internal_link"
+        sort: 5
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "heading2"
+        label: "Heading2"
+        description: ""
+        datatype: "text"
+        sort: 6
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "mobile_header"
+        label: "Mobile Header"
+        description: "This header only displays on mobile, not on desktop."
+        datatype: "text"
+        sort: 1
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Navigation"
+    name: "navigation"
+    sort: 100
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: null
+    content: "/content/navigation.yaml"
+    fields:
+      - name: "navigation_label"
+        label: "Navigation Label"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "navigation_link"
+        label: "Navigation Link"
+        description: ""
+        datatype: "internal_link"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "navigation_sort"
+        label: "Navigation Sort"
+        description: ""
+        datatype: "sort"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "navigation_parent"
+        label: "Navigation Parent"
+        description: ""
+        datatype: "internal_link"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "external_link"
+        label: "External Link"
+        description: ""
+        datatype: "link"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "mobile_or_desktop"
+        label: "Mobile or Desktop?"
+        description: ""
+        datatype: "yes_no"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+          options:
+            0: "Mobile"
+            1: "Desktop"
+  - description: ""
+    label: "Footer"
+    name: "footer"
+    sort: 102
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: null
+    view: "/views/footer.tpl"
+    content: "/content/footer.yaml"
+    fields:
+      - name: "media_icon"
+        label: "Media Icon"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "footer_labels"
+        label: "Footer labels"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "footer_links"
+        label: "Footer Links"
+        description: ""
+        datatype: "internal_link"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "column_number"
+        label: "Column_number"
+        description: ""
+        datatype: "number"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "sort_by"
+        label: "sort by"
+        description: ""
+        datatype: "sort"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "About"
+    name: "about"
+    sort: 108
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/about.tpl"
+    content: "/content/about.yaml"
+    fields:
+      - name: "header_image"
+        label: "header image"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "header_title"
+        label: "header title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "about_main_context"
+        label: "about main context"
+        description: ""
+        datatype: "textarea"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Contact-us"
+    name: "contact_us"
+    sort: 110
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/contact_us.tpl"
+    content: "/content/contact_us.yaml"
+    fields:
+      - name: "header_img"
+        label: "header img"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "header_text"
+        label: "header text"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "contact_us_text"
+        label: "contact us text"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "contact_us_description"
+        label: "Contact us description"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "map_address"
+        label: "map_address"
+        description: ""
+        datatype: "textarea"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "longitude"
+        label: "longitude"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "latitude"
+        label: "latitude"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "map_img_mark"
+        label: "map img mark"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "email"
+        label: "email"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "contact_number"
+        label: "contact number"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Banner Slides"
+    name: "banner_slides"
+    sort: 112
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "homepage"
+    content: "/content/banner_slides.yaml"
+    fields:
+      - name: "banner_image"
+        label: "Banner Image"
+        description: ""
+        datatype: "images"
+        sort: 0
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "banner_text"
+        label: "Banner Text"
+        description: ""
+        datatype: "text"
+        sort: 1
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "banner_content"
+        label: "Banner Content"
+        description: ""
+        datatype: "textarea"
+        sort: 2
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "banner_cta"
+        label: "Banner CTA"
+        description: ""
+        datatype: "link"
+        sort: 3
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "banner_sort"
+        label: "Banner Sort"
+        description: ""
+        datatype: "sort"
+        sort: 5
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "banner_cta_text"
+        label: "Banner CTA Text"
+        description: ""
+        datatype: "text"
+        sort: 4
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Services Block"
+    name: "services_block"
+    sort: 116
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "homepage"
+    content: "/content/services_block.yaml"
+    fields:
+      - name: "heading"
+        label: "Heading"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "content"
+        label: "Content"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "image_icon"
+        label: "Image icon"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "service_sort"
+        label: "Service Sort"
+        description: ""
+        datatype: "sort"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "service_link"
+        label: "Service Link"
+        description: ""
+        datatype: "link"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Services Block 2"
+    name: "services_block_2"
+    sort: 116
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "homepage"
+    content: "/content/services_block_2.yaml"
+    fields:
+      - name: "sort2"
+        label: "Sort2"
+        description: ""
+        datatype: "sort"
+        sort: 2
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "heading"
+        label: "Heading"
+        description: ""
+        datatype: "text"
+        sort: 0
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "image_icon"
+        label: "Image Icon"
+        description: ""
+        datatype: "text"
+        sort: 3
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "external_link"
+        label: "External Link"
+        description: ""
+        datatype: "link"
+        sort: 4
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "image2"
+        label: "Image2"
+        description: ""
+        datatype: "images"
+        sort: 5
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "block2_content"
+        label: "Block2 Content"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 1
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Video Resources"
+    name: "video_resources"
+    sort: 128
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "video_blog"
+    content: "/content/video_resources.yaml"
+    fields:
+      - name: "video_info"
+        label: "Video info"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "thumbnail"
+        label: "Thumbnail"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "sort_by"
+        label: "Sort by"
+        description: ""
+        datatype: "sort"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "video_url"
+        label: "Video url"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "video"
+        label: "Video"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Video Blog"
+    name: "video_blog"
+    sort: 137
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/video_blog.tpl"
+    content: "/content/video_blog.yaml"
+    fields:
+      - name: "title"
+        label: "Title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "main_image"
+        label: "Main image"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "image_info"
+        label: "Image info"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "FAQ"
+    name: "faq"
+    sort: 139
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/faq.tpl"
+    content: "/content/faq.yaml"
+    fields:
+      - name: "faq_title"
+        label: "faq title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "header_img"
+        label: "header img"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "faq_answer_img"
+        label: "faq_answer_img"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "header_title"
+        label: "header title"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "faq_no4_highlight"
+        label: "faq_no4_highlight"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "faq contents"
+    name: "faq_contents"
+    sort: 142
+    listed: true
+    hasRoute: false
+    showAsTable: false
+    parent: "faq"
+    content: "/content/faq_contents.yaml"
+    fields:
+      - name: "titles"
+        label: "titles"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "faq_answers"
+        label: "faq answers"
+        description: ""
+        datatype: "wysiwyg_basic"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "faq_sort"
+        label: "faq sort"
+        description: ""
+        datatype: "sort"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "faq_img"
+        label: "faq img"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "Toolkits"
+    name: "toolkits"
+    sort: 149
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/toolkits.tpl"
+    content: "/content/toolkits.yaml"
+    fields:
+      - name: "heading"
+        label: "Heading"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "main_text"
+        label: "Main text"
+        description: ""
+        datatype: "text"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+      - name: "banner_image"
+        label: "Banner Image"
+        description: ""
+        datatype: "images"
+        sort: 10000
+        required: false
+        relationship: null
+        settings:
+          list: true
+  - description: ""
+    label: "test"
+    name: "test"
+    sort: 151
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/test.tpl"
+    content: "/content/test.yaml"
+    fields: []
+  - description: ""
+    label: "testvideo"
+    name: "testvideo"
+    sort: 153
+    listed: true
+    hasRoute: true
+    showAsTable: false
+    parent: null
+    view: "/views/testvideo.tpl"
+    content: "/content/testvideo.yaml"
+    fields: []

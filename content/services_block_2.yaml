@@ -1,0 +1,70 @@
+
+  - id: "5ac6-bf42-63d4"
+    web:
+      metaDescription: "Homeowners who are facing financial challenges due to the coronavirus pandemic can download these consumer guides, which are available in English and Spanish."
+      metaTitle: "Facing Financial Challenges?"
+      metaLinkText: "Facing Financial Challenges?"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 121
+      listed: true
+    data:
+      block2_content: "<p>Homeowners who are facing financial challenges due to the coronavirus pandemic can download these <a href=\"https://realtorparty.realtor/community-outreach/housing-opportunity/resources/covid-19-consumer-guides?utm_source=rpnews&amp;utm_medium=email&amp;utm_campaign=rpNews0820\">consumer guides</a>, which are available in English and Spanish.</p>"
+      external_link: "https://realtorparty.realtor/community-outreach/housing-opportunity/resources/covid-19-consumer-guides?utm_source=rpnews&utm_medium=email&utm_campaign=rpNews0820"
+      heading: "Facing Financial Challenges?"
+      image2: "https://jswq9vkf.media.zestyio.com/home-financialmeeting.jpg.jpg"
+      image_icon: "bank-building"
+      sort2: 2
+  - id: "d574-623e-deae"
+    web:
+      metaDescription: "The Maryland Mortgage Program offers downpayment programs and initiatives designed to make homebuying more affordable. Find out more by visiting www.mmp.marylan"
+      metaTitle: "Maryland Mortgage Program"
+      metaLinkText: "Maryland Mortgage Program"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 120
+      listed: true
+    data:
+      block2_content: "<p>The Maryland Mortgage Program offers downpayment programs and initiatives designed to make homebuying more affordable. Find out more by visiting <a href=\"https://mmp.maryland.gov/pages/default.aspx\">www.mmp.maryland.gov</a></p>"
+      external_link: "http://www.mmp.maryland.gov"
+      heading: "Maryland Mortgage Program"
+      image2: "https://jswq9vkf.media.zestyio.com/MD-Realtor-Homeownership-pic-2.jpg.jpg"
+      image_icon: "paper"
+      sort2: 1
+  - id: "3709-4b83-14b8"
+    web:
+      metaDescription: "Some service content to put here"
+      metaTitle: "Service Block Placeholder"
+      metaLinkText: "Service Block Placeholder"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 148
+      listed: true
+    data:
+      block2_content: null
+      external_link: "/"
+      heading: "Service Block Placeholder"
+      image2: "https://jswq9vkf.media.zestyio.com/home-financialmeeting.jpg.jpg"
+      image_icon: "statistics-1"
+      sort2: 3

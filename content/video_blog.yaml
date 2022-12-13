@@ -1,0 +1,21 @@
+
+  - id: "9d90-dcaf-d066"
+    web:
+      metaDescription: ""
+      metaTitle: "Video Blog"
+      metaLinkText: "Video Blog"
+      metaKeywords: null
+      pathPart: "video-blog"
+      path: "/video-blog/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 138
+      listed: true
+    data:
+      image_info: "<p>Easy Access Information at Your Fingertips</p>"
+      main_image: "https://jswq9vkf.media.zestyio.com/houses.jpg"
+      title: "Video Resources"

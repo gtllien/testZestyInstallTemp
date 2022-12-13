@@ -1,0 +1,21 @@
+
+  - id: "0aa2-e582-3c64"
+    web:
+      metaDescription: ""
+      metaTitle: "Toolkits"
+      metaLinkText: "Toolkits"
+      metaKeywords: null
+      pathPart: "toolkits"
+      path: "/toolkits/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 150
+      listed: true
+    data:
+      banner_image: "https://jswq9vkf.media.zestyio.com/houses.jpg"
+      heading: "Toolkits"
+      main_text: "Whether you’re buying your first home, your next home, or a vacation property, these toolkits can give you the guidance you need."

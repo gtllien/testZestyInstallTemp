@@ -1,0 +1,133 @@
+
+  - id: "80b5-484e-0c25"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 123
+      listed: true
+    data:
+      column_number: 1
+      footer_labels: "Testimonials"
+      footer_links: null
+      media_icon: null
+      sort_by: 2
+  - id: "8062-a6a3-4bd1"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 122
+      listed: true
+    data:
+      column_number: 1
+      footer_labels: "Services"
+      footer_links: "0"
+      media_icon: null
+      sort_by: 1
+  - id: "541d-725b-ea3e"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 126
+      listed: true
+    data:
+      column_number: 3
+      footer_labels: "Support System"
+      footer_links: null
+      media_icon: null
+      sort_by: 1
+  - id: "d437-7204-8851"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 125
+      listed: true
+    data:
+      column_number: 2
+      footer_labels: "Refund Policy"
+      footer_links: null
+      media_icon: null
+      sort_by: 2
+  - id: "01af-ce50-f53c"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 127
+      listed: true
+    data:
+      column_number: 3
+      footer_labels: "Submit a ticket"
+      footer_links: null
+      media_icon: null
+      sort_by: 2
+  - id: "db76-5b8d-61c5"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 124
+      listed: true
+    data:
+      column_number: 2
+      footer_labels: "Licensing"
+      footer_links: null
+      media_icon: null
+      sort_by: 1

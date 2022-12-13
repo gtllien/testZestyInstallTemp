@@ -1,0 +1,33 @@
+
+  - id: "efa7-25af-9a75"
+    web:
+      metaDescription: ""
+      metaTitle: null
+      metaLinkText: null
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 99
+      listed: true
+    data:
+      contact_modal_msg: "<p>Message sent, Thank you!</p>"
+      footer_address: "<p>200 Harry S Truman Parkway, Suite 200 Annapolis, MD 21401</p>"
+      footer_column1: "Getting <br> Started"
+      footer_column2: "Terms of  <br> Use"
+      footer_column3: "Contact <br> Us"
+      footer_contact: "+987 (654) 321"
+      footer_content: "<p>For updates on buying, selling, or owning a home, please subscribe to our newsletter.</p>"
+      footer_email: "info@marylandhomeownership.com"
+      footer_icon: "https://jswq9vkf.media.zestyio.com/Maryland_REALTORS-e1509393533610.jpg"
+      footer_modal_msg: "<p>Thank you for joining us!</p>"
+      footer_title: "Contact Us"
+      logo: "https://jswq9vkf.media.zestyio.com/MHO-Logo-Color-hires3.jpg"
+      modal_button_name: "Exit"
+      modal_title: "Message"
+      site_name: "Maryland Realtors"

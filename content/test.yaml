@@ -1,0 +1,18 @@
+
+  - id: "90af-87c3-2521"
+    web:
+      metaDescription: ""
+      metaTitle: "test"
+      metaLinkText: "test"
+      metaKeywords: null
+      pathPart: "test"
+      path: "/test/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 152
+      listed: true
+    data: {}

@@ -1,0 +1,23 @@
+
+  - id: "acb3-9f3f-1ea4"
+    web:
+      metaDescription: "Got questions? We have answers. Check out this FAQ page."
+      metaTitle: "FAQ"
+      metaLinkText: "FAQ"
+      metaKeywords: null
+      pathPart: "frequently-asked-questions"
+      path: "/frequently-asked-questions/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 140
+      listed: true
+    data:
+      faq_answer_img: "https://jswq9vkf.media.zestyio.com/downpayment.jpg"
+      faq_no4_highlight: "Down payment is a percentage of the purchase price of a home."
+      faq_title: "Frequently Asked Questions"
+      header_img: "https://jswq9vkf.media.zestyio.com/houses.jpg"
+      header_title: "Get the Tools You Need to Buy a Home in Maryland"

@@ -1,0 +1,18 @@
+
+  - id: "1385-51a8-b5c1"
+    web:
+      metaDescription: ""
+      metaTitle: "testvideo"
+      metaLinkText: "testvideo"
+      metaKeywords: null
+      pathPart: "testvideo"
+      path: "/testvideo/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 154
+      listed: true
+    data: {}

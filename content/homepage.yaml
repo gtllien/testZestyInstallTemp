@@ -1,0 +1,25 @@
+
+  - id: "5eae-7b17-53b6"
+    web:
+      metaDescription: ""
+      metaTitle: "Homepage"
+      metaLinkText: "Homepage"
+      metaKeywords: null
+      pathPart: "zesty_home"
+      path: "/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 0
+      listed: true
+    data:
+      heading1: "Get The Tools You Need to <span>Buy a Home</span> in Maryland"
+      heading2: "We provide the best services <span>Planner</span>"
+      mobile_header: "Home ownership made easy!"
+      video: "https://jswq9vkf.media.zestyio.com/maryland_vid---Compressed-with-FlexClip.mp4"
+      video_content: "<p></p>\n<p></p>\n<p><strong>There&rsquo;s never been a better time to <span style=\"background-color: #fbeeb8;\">buy your first home</span>, <br />your next home, or a vacation property. </strong></p>"
+      video_heading: "Some <span>Video</span> Heading Here"
+      video_link: "5eae-7b17-53b6"

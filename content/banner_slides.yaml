@@ -1,0 +1,70 @@
+
+  - id: "a012-a7e9-4292"
+    web:
+      metaDescription: "Maryland Needs More Affordable Housing Now"
+      metaTitle: "Have you had challenges finding housing?"
+      metaLinkText: "Have you had challenges finding housing?"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 113
+      listed: true
+    data:
+      banner_content: "Have you had challenges finding housing?"
+      banner_cta: "https://opendoorsmaryland.org/"
+      banner_cta_text: "Share Your Story"
+      banner_image: "https://jswq9vkf.media.zestyio.com/maryland-home-ownership-happy-couple.jpeg"
+      banner_sort: 1
+      banner_text: "Maryland Needs More Affordable Housing Now"
+  - id: "b85a-77ba-bd4d"
+    web:
+      metaDescription: "Selling a home?"
+      metaTitle: "Check out our Home Seller Toolkit"
+      metaLinkText: "Check out our Home Seller Toolkit"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 115
+      listed: true
+    data:
+      banner_content: "Selling a home?"
+      banner_cta: "/toolkits/"
+      banner_cta_text: "Click Here to Download"
+      banner_image: "https://jswq9vkf.media.zestyio.com/MHO-Slider-SellerKit.jpg"
+      banner_sort: 3
+      banner_text: "Check out our Home Seller Toolkit"
+  - id: "df34-80a5-f163"
+    web:
+      metaDescription: "First time buyer?"
+      metaTitle: "Check out our Homebuyer Toolkit"
+      metaLinkText: "Check out our Homebuyer Toolkit"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 114
+      listed: true
+    data:
+      banner_content: "First time buyer?"
+      banner_cta: "/toolkits"
+      banner_cta_text: "Click Here to Download"
+      banner_image: "https://jswq9vkf.media.zestyio.com/MHO-Slider-BuyerKit.jpg"
+      banner_sort: 2
+      banner_text: "Check out our Homebuyer Toolkit"

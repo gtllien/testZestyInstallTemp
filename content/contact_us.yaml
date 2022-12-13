@@ -1,0 +1,28 @@
+
+  - id: "077f-74eb-3219"
+    web:
+      metaDescription: ""
+      metaTitle: "Contact-us"
+      metaLinkText: "Contact-us"
+      metaKeywords: null
+      pathPart: "contact-us"
+      path: "/contact-us/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 111
+      listed: true
+    data:
+      contact_number: "+987 (654) 321"
+      contact_us_description: "For more information on homeownership programs in Maryland, please contact us."
+      contact_us_text: "Contact Us"
+      email: " info@marylandhomeownership.com"
+      header_img: "https://jswq9vkf.media.zestyio.com/houses.jpg"
+      header_text: "For More Information"
+      latitude: "38.9771640109237"
+      longitude: "-76.55529064948858"
+      map_address: "200 Harry S. Truman Pkwy #200 <br>Annapolis, MD 21401"
+      map_img_mark: "https://jswq9vkf.media.zestyio.com/map_mark.png"

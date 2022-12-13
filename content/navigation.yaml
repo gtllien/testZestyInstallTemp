@@ -1,0 +1,162 @@
+
+  - id: "857f-37fd-7a71"
+    web:
+      metaDescription: ""
+      metaTitle: "Instagram"
+      metaLinkText: "Instagram"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 156
+      listed: true
+    data:
+      external_link: "https://www.instagram.com/marylandrealtors/?hl=en"
+      mobile_or_desktop: 0
+      navigation_label: "Instagram"
+      navigation_link: null
+      navigation_parent: null
+      navigation_sort: 6
+  - id: "e53b-d2de-ddf5"
+    web:
+      metaDescription: ""
+      metaTitle: "LinkedIn"
+      metaLinkText: "LinkedIn"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 155
+      listed: true
+    data:
+      external_link: "https://www.linkedin.com/company/maryland-association-of-realtors/"
+      mobile_or_desktop: 1
+      navigation_label: "LinkedIn"
+      navigation_link: "0"
+      navigation_parent: null
+      navigation_sort: 6
+  - id: "5b69-bba3-6393"
+    web:
+      metaDescription: ""
+      metaTitle: "Home"
+      metaLinkText: "Home"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 101
+      listed: true
+    data:
+      external_link: null
+      mobile_or_desktop: 1
+      navigation_label: "First-time Buyers"
+      navigation_link: "5eae-7b17-53b6"
+      navigation_parent: null
+      navigation_sort: 1
+  - id: "912b-68aa-9e3c"
+    web:
+      metaDescription: ""
+      metaTitle: "Faq"
+      metaLinkText: "Faq"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 141
+      listed: true
+    data:
+      external_link: null
+      mobile_or_desktop: null
+      navigation_label: "FAQ"
+      navigation_link: "acb3-9f3f-1ea4"
+      navigation_parent: "5eae-7b17-53b6"
+      navigation_sort: 5
+  - id: "da6a-b045-412f"
+    web:
+      metaDescription: ""
+      metaTitle: "Video Resources"
+      metaLinkText: "Video Resources"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 106
+      listed: true
+    data:
+      external_link: null
+      mobile_or_desktop: null
+      navigation_label: "Video Resources"
+      navigation_link: "9d90-dcaf-d066"
+      navigation_parent: "5eae-7b17-53b6"
+      navigation_sort: 3
+  - id: "edf0-30f6-3b38"
+    web:
+      metaDescription: ""
+      metaTitle: "Contact Us"
+      metaLinkText: "Contact Us"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 107
+      listed: true
+    data:
+      external_link: null
+      mobile_or_desktop: null
+      navigation_label: "Contact Us"
+      navigation_link: "077f-74eb-3219"
+      navigation_parent: null
+      navigation_sort: 4
+  - id: "4a54-90be-ca12"
+    web:
+      metaDescription: ""
+      metaTitle: "About Us"
+      metaLinkText: "About Us"
+      metaKeywords: null
+      pathPart: null
+      path: null
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 105
+      listed: true
+    data:
+      external_link: null
+      mobile_or_desktop: null
+      navigation_label: "About Us"
+      navigation_link: "1b64-3100-33d1"
+      navigation_parent: null
+      navigation_sort: 2

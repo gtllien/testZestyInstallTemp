@@ -1,0 +1,21 @@
+
+  - id: "1b64-3100-33d1"
+    web:
+      metaDescription: ""
+      metaTitle: "About"
+      metaLinkText: "About"
+      metaKeywords: null
+      pathPart: "about"
+      path: "/about/"
+      sitemapPriority: -1
+      canonicalTagMode: 1
+      canonicalQueryParamWhitelist: null
+      canonicalTagCustomValue: null
+      parent: "/"
+    meta:
+      sort: 109
+      listed: true
+    data:
+      about_main_context: "Maryland Homeownership.com is a site owned and managed by Maryland REALTORS®, the professional trade association that represents, educates, and provides guidance to its 28,000+ members across the state. Its members follow the highest ethical standards, as established by the National Association of REALTORS®, which includes a commitment to fair and equal housing for all.\n\n"
+      header_image: "https://jswq9vkf.media.zestyio.com/home-slide-2.jpg"
+      header_title: "About Maryland Homeownership.com"
